@@ -1,0 +1,11 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4EA7DD81-408B-FF56-214A-B6A52DDC57DA}",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"TVOS",
+		"Android"
+	]
+}
